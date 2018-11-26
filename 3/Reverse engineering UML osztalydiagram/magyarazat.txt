@@ -1,0 +1,1 @@
+Eclipse segítségével a diagram sikeresen le lett generálva.
