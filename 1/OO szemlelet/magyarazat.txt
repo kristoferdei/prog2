@@ -1,0 +1,2 @@
+Java: Bátfai tanár úr kódja fordítva, lefutattva.
+C++: UDPROG repoban található forráskód fordítva, futtatva.
