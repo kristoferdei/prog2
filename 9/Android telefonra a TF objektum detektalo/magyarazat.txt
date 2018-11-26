@@ -1,0 +1,1 @@
+Forrás: https://www.tensorflow.org/lite/demo_android
