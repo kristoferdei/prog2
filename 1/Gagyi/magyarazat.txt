@@ -1,0 +1,2 @@
+Gagyi1: véges while ciklus.
+Gagyi2: ha -128nál kisebb számot adunk meg, akkor a while ciklus végtelen lesz.
