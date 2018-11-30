@@ -1,1 +1,2 @@
 Bátfai tanár úr forrása sikeresen fordítva és futtatva.
+Az általunk létrehozott osztolyák páldányainak rendezésére szolgál a Javában az Inteface Comparable. Ezáltal egyetlen adat szerint is tudunk rendezni. Ez az interface a java.lang nevű package része. Ennek a segítségével van rendezve a csapat osztály a programban.
