@@ -1,2 +1,3 @@
 Gagyi1: véges while ciklus.
 Gagyi2: ha -128nál kisebb számot adunk meg, akkor a while ciklus végtelen lesz.
+Mert: A t és az x objektum generált számokat tárol -128 és 127 között. Ha a t és az x ezen intervallumban vesz fel értéket, abbban az esetben egy memóriacímbe fognak esni és ugyanarra a számra fognak hivatkozni. De ha az intervallumon kívül veszik fel az értéket, akkor viszont külön memóriacímet fognak kapni a számok. Ezért végtelen ciklust fogunk kapni.
