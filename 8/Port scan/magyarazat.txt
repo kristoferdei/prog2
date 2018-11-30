@@ -1,1 +1,6 @@
 Bátfai tanár úr kódja sikeresen fordítva és futtatva.
+Try-catch kivételkezelés. 
+Try blokk: TCP kapcsolat létesítése java.net Socket függvénnyel, hostname-el és porttal.
+Catch blokk: Ha nem sikerül kapcsolatot létesíteni, kivételt ad és "elkap".
+Ha sikerül és megnyílik, kiírja hogy figyeli a portot.
+A függvény 0 és 1024 között nézi végig a portokat.
